@@ -1,2 +1,3 @@
 # dataset-orthorhombic
-A synthetic scattering dataset with orthogonal axes and unequal axis lengths.
+
+This repo serves as the datafiles for the `nxs_analysis_tools.datasets.orthorhombic` method in the `nxs_analysis_tools.datasets` submodule.
